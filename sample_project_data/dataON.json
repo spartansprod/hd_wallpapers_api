@@ -1,0 +1,220 @@
+{
+  "GuideData": {
+
+
+    "AdsController": [
+      {
+        "NetworkAds": "admob",
+        "AdMobId": "pub-3940256099942544",
+
+        "BannerAdmob": "ca-app-pub-3940256099942544/6300978111",
+        "InterstitialAdmob": "ca-app-pub-3940256099942544/1033173712",
+        "NativeAdmob": "ca-app-pub-3940256099942544/2247696110",
+
+        "BannerFacebook": "215369770340104_215371697006578",
+        "InterstitialFacebook": "215369770340104_215370303673384",
+        "NativeFacebook": "215369770340104_215372247006523"
+
+      }
+    ],
+
+    "items": [
+      {
+        "title": "POPPY KISSY MISSY HAGGY WAGGY!",
+        "image": "https://spartansprod.github.io/hd_wallpapers_api/sample.jpg"
+      },
+      {
+        "title": "Remember what went wrong!",
+        "image": "https://spartansprod.github.io/hd_wallpapers_api/sample.jpg"
+      },
+      {
+        "title": "Imposters are coming in this upgrade!",
+        "image": "https://spartansprod.github.io/hd_wallpapers_api/sample.jpg"
+      },
+      {
+        "title": "Huggy Wuggy marries Kissy Missy : newest Mod!",
+        "image": "https://spartansprod.github.io/hd_wallpapers_api/sample.jpg"
+      }
+    ],
+
+    "content1": [
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "bold",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false","link_title": "","setLink": "",
+        "image_link": "",
+        "text": "Know Kissy: Kissy Missy's appearance is very similar to Huggy Wuggy's. Like Huggy, she is a tall, slender creature with thick fur, but she is dyed pink rather than Huggy's signature blue. The rest of her features such as her blue bow, yellow hands and feet, and eyes are similar to Huggy's with the exception of her long eyelashes and eye color. ",
+        "isNative": "false"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "blood",
+        "gravity": "left",
+        "left": "5",
+        "text_size": "20",
+        "isLink": "false","link_title": "","setLink": "",
+        "image_link": "https://spartansprod.github.io/hd_wallpapers_api/sample.jpg",
+        "text": "Some history: Little is known about Kissy Missy, but through gathered information, it is learned that she was made in 1985. A year after Huggy Wuggy was created. It is speculated that Playtime Co. made her due to the fact that Huggy skyrocketed in popularity, and so seized the opportunity to create a feminine counterpart to further boost their popularity.",
+        "isNative": "true"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "blood",
+        "gravity": "left",
+        "left": "5",
+        "text_size": "25",
+        "isLink": "false","link_title": "","setLink": "",
+        "image_link": "https://spartansprod.github.io/hd_wallpapers_api/sample.jpg",
+        "text": "Chapter 2 Tips : Kissy Missy makes a minor appearance in Chapter 2, in the Cart Corridors. She is first seen walking towards the Player, in a fashion similar to how Huggy Wuggy walks when triggering the Vent Chase. Separated from the player by a gate, she looks at the Player for a short moment, then notices the lever nearby. She proceeds to pull it downwards (although unsuccessful on her first try) to open the metal gate.",
+        "isNative": "true"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "blood",
+        "gravity": "left",
+        "left": "5",
+        "text_size": "25",
+        "isLink": "true",
+        "link_title": "Open The Game","setLink": "com.zonek.apps.scarycomicsbob",
+        "image_link": "",
+        "text": "Chapter 2 : Once The Player reaches the end of the corridor from which she had come from, Kissy is nowhere to be seen.",
+        "isNative": "false"
+      }
+    ],
+
+    "content2": [
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "bold",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false","link_title": "","setLink": "",
+        "image_link": "",
+        "text": "Trivia: Before her official name was revealed on Twitter, Lovey Dovey was a popular name for her fans/ Kissy Missy's relation to Huggy Wuggy has been confirmed, shown on the Kissy Missy Collectable.",
+        "isNative": "false"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "blood",
+        "gravity": "left",
+        "left": "5",
+        "text_size": "20",
+        "isLink": "false","link_title": "","setLink": "",
+        "image_link": "https://spartansprod.github.io/hd_wallpapers_api/sample.jpg",
+        "text": "Psst Secret: For reasons unknown, Kissy Missy has what appears to be a tear in her left eye while pulling the lever in the entrance mines/ Digging into the game files reveal that Kissy's initial shadowy gait was really Huggy's Vent Chase initial model, but later switched to her pink model.",
+        "isNative": "true"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "blood",
+        "gravity": "left",
+        "left": "5",
+        "text_size": "25",
+        "isLink": "false","link_title": "","setLink": "",
+        "image_link": "https://spartansprod.github.io/hd_wallpapers_api/sample.jpg",
+        "text": "About Poppyy: Poppy is a petite doll with chalk-white skin, freckles and rosy cheeks. She has red, curly hair tied into double pigtails, held up with a pair of powder blue ribbons. The way light reflects off her face suggests she is made from porcelain and glazed. She wears a large, flouncy powder blue gown with long frilly sleeves adorned with numerous bows, frills, and bustles, and a pair of black Mary Janes. She also wears deep red lipstick. She has a pair of thin, black eyebrows, and a pair of uncannily realistic-looking blue eyes framed by long lashes. ",
+        "isNative": "true"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "blood",
+        "gravity": "left",
+        "left": "5",
+        "text_size": "25",
+        "isLink": "true","link_title": "Open The Game","setLink": "com.zonek.apps.scarycomicsbob",
+        "image_link": "",
+        "text": "As a living doll organism, although she still retains her general personality, Poppy acts somewhat different. At the start of Chapter 2: Fly in a Web, Poppy is first introduced with a bubbly, caring personality, thanking The Player for freeing her, patiently waiting for The Player as we climb up the vents in the Backrooms,",
+        "isNative": "false"
+      }
+    ],
+
+    "content3": [
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "bold",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false","link_title": "","setLink": "",
+        "image_link": "",
+        "text": "Backstory: Poppy was created by Playtime Co. in 1950 with the intent of behaving and interacting in the way that humans do, such as talking and conversing, and she was introduced inside the Vintage Poppy Commercial. The VHS tape simply introduces her as a toy with the ability to converse with a child, a revolutionary technology of her era.",
+        "isNative": "false"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "blood",
+        "gravity": "left",
+        "left": "5",
+        "text_size": "20",
+        "isLink": "false","link_title": "","setLink": "",
+        "image_link":"https://spartansprod.github.io/hd_wallpapers_api/sample.jpg",
+        "text": "Private guide: Chapter 1: A Tight Squeeze At the end of the chapter, Poppy is seen contained within a glass case. Once The Player opens the case, the lights start to flicker rapidly and her eyes open as she announces to The Player that they opened her case. ",
+        "isNative": "true"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "blood",
+        "gravity": "left",
+        "left": "5",
+        "text_size": "25",
+        "isLink": "false","link_title": "","setLink": "",
+        "image_link": "https://spartansprod.github.io/hd_wallpapers_api/sample.jpg",
+        "text": "Features : The Poppy Playtime Maintenance tape is a tape that is not intended to be seen by the public eye, it is only accessible through the Poppy Playtime steam page and the official MOB Games YouTube channel. For a tape that simply demonstrates to the viewer how to take care of one's Poppy",
+        "isNative": "true"
+      }
+    ],
+
+    "content4": [
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "bold",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false","link_title": "","setLink": "",
+        "image_link": "",
+        "text": "Poppy, with her tiny stature, can navigate her way through the vents effortlessly to get around the factory. This allows her to follow The Player with relative ease, or even get ahead of them. She also seems to have a knack for working machines, as she changed the direction of the train that the Player and she are on at the last second with ease. ",
+        "isNative": "false"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "blood",
+        "gravity": "left",
+        "left": "5",
+        "text_size": "20",
+        "isLink": "false","link_title": "","setLink": "",
+        "image_link": "https://spartansprod.github.io/hd_wallpapers_api/sample.jpg",
+        "text": "The Poppy doll seen in the case, and later assisting The Player, is seemingly the original prototype of its toy type. Both Stella Greyber and Poppy Playtime share the same voice actress. Whether or not this is intentional as per the developer's decision, or simply due to shortage of voice providers, it is still worth noting.",
+        "isNative": "true"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "blood",
+        "gravity": "left",
+        "left": "5",
+        "text_size": "25",
+        "isLink": "false","link_title": "","setLink": "",
+        "image_link": "https://spartansprod.github.io/hd_wallpapers_api/sample.jpg",
+        "text": "A deleted audio of Poppy features a longer line from Poppy if she hadn't been interrupted from talking to the Player by Mommy Long Legs kidnapping her by dragging her into the large hole. The deleted audio features Poppy instructing The Player on where to go.",
+        "isNative": "true"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "blood",
+        "gravity": "left",
+        "left": "5",
+        "text_size": "25",
+        "isLink": "true",
+        "link_title": "Open The Game",
+        "setLink": "com.ubiproduction.apps.kissymissi_long_legs_mom",
+        "image_link": "",
+        "text": "A deleted animation from a MOB Games animator reveals that Poppy used to have a more monotone voice and stoic personality from the start of Chapter 2; she lacks the energetic and joyful persona she ultimately has in the final game. In the animation",
+        "isNative": "false"
+      }
+    ]
+  }
+}
